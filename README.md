@@ -1,9 +1,6 @@
 # 🚀☄️QA - Automation - pokemon_API
 
 
-
----
-
 ## 📄 Description
 
 This project focuses on the automation testing of the Pokemon API, a hosted dummy REST API designed for testing purposes. It utilizes the powerful Karate framework, which is a Cucumber-like Behavior-Driven Development (BDD) framework specifically designed for API automation testing. The project leverages Maven as the dependency manager, ensuring a structured and efficient management of project dependencies, We aim to ensure the reliability and quality of the API endpoints, reducing the risk of regressions and improving the overall development process.
