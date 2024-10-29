@@ -28,7 +28,7 @@ This project focuses on the automation testing of the Pokemon API, a hosted dumm
 
     ```bash
     git clone -b automation https://github.com/emielesG04/pokemon_API/tree/feature_squirtle
-    cd ReqResKarate_backend
+    cd pokemon_API
     ```
 2. Compile the project:
 
